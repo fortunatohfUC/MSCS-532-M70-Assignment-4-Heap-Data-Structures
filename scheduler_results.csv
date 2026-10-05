@@ -1,0 +1,10 @@
+metric,priority_queue,fcfs
+avg_wait,16.1395,16.0505
+max_wait,286,82
+missed_deadlines,233,348
+miss_rate,0.1165,0.1740
+avg_wait_priority_1,44.1003,14.8098
+avg_wait_priority_2,19.0685,16.6472
+avg_wait_priority_3,10.0050,17.4525
+avg_wait_priority_4,5.5074,14.9257
+avg_wait_priority_5,3.3511,16.3923

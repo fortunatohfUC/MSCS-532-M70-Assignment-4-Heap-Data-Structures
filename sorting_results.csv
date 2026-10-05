@@ -1,0 +1,61 @@
+distribution,n,algorithm,time_seconds,correct
+random,1000,Heapsort,0.001084,yes
+random,1000,Quicksort,0.000865,yes
+random,1000,Merge Sort,0.000983,yes
+random,2000,Heapsort,0.002465,yes
+random,2000,Quicksort,0.002275,yes
+random,2000,Merge Sort,0.002124,yes
+random,4000,Heapsort,0.005182,yes
+random,4000,Quicksort,0.004083,yes
+random,4000,Merge Sort,0.004829,yes
+random,8000,Heapsort,0.011632,yes
+random,8000,Quicksort,0.008322,yes
+random,8000,Merge Sort,0.009837,yes
+random,16000,Heapsort,0.025227,yes
+random,16000,Quicksort,0.018557,yes
+random,16000,Merge Sort,0.021425,yes
+sorted,1000,Heapsort,0.001119,yes
+sorted,1000,Quicksort,0.000883,yes
+sorted,1000,Merge Sort,0.000665,yes
+sorted,2000,Heapsort,0.002563,yes
+sorted,2000,Quicksort,0.002090,yes
+sorted,2000,Merge Sort,0.001882,yes
+sorted,4000,Heapsort,0.007064,yes
+sorted,4000,Quicksort,0.004662,yes
+sorted,4000,Merge Sort,0.003003,yes
+sorted,8000,Heapsort,0.011652,yes
+sorted,8000,Quicksort,0.008311,yes
+sorted,8000,Merge Sort,0.006572,yes
+sorted,16000,Heapsort,0.026965,yes
+sorted,16000,Quicksort,0.016248,yes
+sorted,16000,Merge Sort,0.014023,yes
+reverse,1000,Heapsort,0.000991,yes
+reverse,1000,Quicksort,0.000842,yes
+reverse,1000,Merge Sort,0.000734,yes
+reverse,2000,Heapsort,0.002085,yes
+reverse,2000,Quicksort,0.001745,yes
+reverse,2000,Merge Sort,0.001465,yes
+reverse,4000,Heapsort,0.004574,yes
+reverse,4000,Quicksort,0.003805,yes
+reverse,4000,Merge Sort,0.003060,yes
+reverse,8000,Heapsort,0.010364,yes
+reverse,8000,Quicksort,0.007976,yes
+reverse,8000,Merge Sort,0.006793,yes
+reverse,16000,Heapsort,0.022381,yes
+reverse,16000,Quicksort,0.018014,yes
+reverse,16000,Merge Sort,0.014761,yes
+repeated,1000,Heapsort,0.001048,yes
+repeated,1000,Quicksort,0.004149,yes
+repeated,1000,Merge Sort,0.000988,yes
+repeated,2000,Heapsort,0.002433,yes
+repeated,2000,Quicksort,0.010880,yes
+repeated,2000,Merge Sort,0.002032,yes
+repeated,4000,Heapsort,0.004730,yes
+repeated,4000,Quicksort,0.040091,yes
+repeated,4000,Merge Sort,0.004623,yes
+repeated,8000,Heapsort,0.010193,yes
+repeated,8000,Quicksort,0.162085,yes
+repeated,8000,Merge Sort,0.010674,yes
+repeated,16000,Heapsort,0.021030,yes
+repeated,16000,Quicksort,0.655108,yes
+repeated,16000,Merge Sort,0.026238,yes

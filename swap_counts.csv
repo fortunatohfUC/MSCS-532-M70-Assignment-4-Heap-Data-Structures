@@ -1,0 +1,5 @@
+distribution,n,build_swaps,extract_swaps,total_swaps
+random,16000,11848,197363,209211
+sorted,16000,15988,204392,220380
+reverse,16000,0,197876,197876
+repeated,16000,10905,178647,189552
